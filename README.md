@@ -31,17 +31,17 @@
 |2022|Active learning for domain adaptation: An energy-based approach|AAAI|
 |2022|Simple techniques work surprisingly well for neural network test prioritization and active learning (replicability study)|ISSTA|
 |2022|Boosting active learning via improving test performance|AAAI|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
+|2021|Efficient active learning for gaussian process classification by error reduction|NeurIPS|
+|2021|A review and refinement of surprise adequacy|DeepTest|
+|2021|Prioritizing test inputs for deep neural networks via mutation analysis|ICSE|
+|2021|Selecting test inputs for DNNs using differential testing with subspecialized model instances|FSE|
+|2021|Semi-supervised active learning with temporal output discrepancy|ICCV|
+|2021|Batch active learning at scale|NeurIPS|
+|2020|Multiple-boundary clustering and prioritization to promote neural network retraining|ASE|
+|2020|Cost-effective testing of a deep learning model through input reduction|ISSRE|
+|2020|Reducing dnn labelling cost using surprise adequacy: An industrial case study for autonomous driving|FSE|
+|2020|Importance-driven deep learning system testing|ICSE|
+|2020|Practical accuracy estimation for efficient deep neural network testing|TOSEM|
 |-------|------|-------|
 |-------|------|-------|
 |-------|------|-------|
