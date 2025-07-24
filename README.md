@@ -4,7 +4,7 @@
 ## Efficiency-Oriented Testing Techniques
 
 | Year | Title | Venue |
-|------|-------|:---------:|
+|:---------:|-------|:---------:|
 |2025|Prioritizing speech test cases|TOSEM|
 |2025|Markov model based coverage testing of deep learning software systems|IST|
 |2024|Distance-aware test input selection for deep neural networks|ISSTA|
@@ -42,13 +42,13 @@
 |2020|Reducing dnn labelling cost using surprise adequacy: An industrial case study for autonomous driving|FSE|
 |2020|Importance-driven deep learning system testing|ICSE|
 |2020|Practical accuracy estimation for efficient deep neural network testing|TOSEM|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
+|2019|Learning Loss for Active Learning|CVPR|
+|2019|Deephunter: a coverage-guided fuzz testing framework for deep neural networks|ISSTA|
+|2019|------|-------|
+|2019|------|-------|
+|2019|------|-------|
+|2019|------|-------|
+|2019|------|-------|
 |-------|------|-------|
 |-------|------|-------|
 |-------|------|-------|
