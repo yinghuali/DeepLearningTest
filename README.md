@@ -3,11 +3,11 @@
 
 ## Efficiency-Oriented Testing Techniques
 
-| Title | Year | Venue |
+| Year | Title | Venue |
 |-------|------|-------|
 |2025|Markov model based cov- erage testing of deep learning software systems|IST|
 |2025|Prioritizing speech test cases|TOSEM|
-|2024|------|-------|
+|2024|Distance-aware test input selection for deep neural networks|ISSTA|
 |2024|------|-------|
 |2024|------|-------|
 |2024|------|-------|
