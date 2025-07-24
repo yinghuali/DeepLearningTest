@@ -44,22 +44,24 @@
 |2020|Practical accuracy estimation for efficient deep neural network testing|TOSEM|
 |2019|Learning Loss for Active Learning|CVPR|
 |2019|Deephunter: a coverage-guided fuzz testing framework for deep neural networks|ISSTA|
-|2019|------|-------|
-|2019|------|-------|
-|2019|------|-------|
-|2019|------|-------|
-|2019|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
+|2019|Structural test coverage criteria for deep neural networks|TECS|
+|2019|Tensorfuzz: Debugging neural networks with coverage-guided fuzzing|ICML|
+|2019|Boostingoperational dnn testing efficiency through conditioning|FSE|
+|2019|Guiding deep learning system testing using surprise adequacy|ICSE|
+|2018|Deeptest: Automated testing of deep-neural-network-driven autonomous cars|ICSE|
+|2018|Deepgauge: Multi-granularity testing criteria for deep learning systems|ASE|
+|2018|Dlfuzz: Differential fuzzing testing of deep learning systems|FSE|
+|2017|Deepxplore: Automated whitebox testing of deep learning systems|SOSP|
+|2017|Deep bayesian active learning with image data|ICML|
+
+## Robustness
+| Year | Title | Venue |
+|:---------:|-------|:---------:|
+|2025|Iterative generation of adversarial example for deep code models|ICSE|
+|2025|Tapt: Test- time adversarial prompt tuning for robust inference in vision-language models|CVPR|
+|2025|Aed-pada: Improving generalizability of adversarial example detec-tion via principal adversarial domain adaptation|TOMM|
+|2025|Two is Better than One: Efficient Ensemble Defense for Robust and Compact Models|CVPR|
+|2025|MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework|CVPR|
 |-------|------|-------|
 |-------|------|-------|
 |-------|------|-------|
