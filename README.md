@@ -5,32 +5,32 @@
 
 | Year | Title | Venue |
 |------|-------|:---------:|
-|2025|Markov model based cov- erage testing of deep learning software systems|IST|
 |2025|Prioritizing speech test cases|TOSEM|
+|2025|Markov model based coverage testing of deep learning software systems|IST|
 |2024|Distance-aware test input selection for deep neural networks|ISSTA|
-|2024|------|-------|
-|2024|------|-------|
-|2024|------|-------|
-|2024|------|-------|
-|2024|------|-------|
-|2024|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
+|2024|Criticalfuzz: A critical neuron coverage-guided fuzz testing framework for deep neural networks|IST|
+|2024|Coverage-enhanced fault diagnosis for deep learning programs: A learning-based approach with hybrid metrics|IST|
+|2024|Test input prioritization for 3d point clouds|TOSEM|
+|2024|Aetta: Label-free accuracy estimation for test-time adaptation|CVPR|
+|2024|Deepsample: Dnn sampling-based testing for operational accuracy assessment|ICSE|
+|2024|Fast: Boosting uncertainty-based test prioritization methods for neural networks via feature selection|ASE|
+|2023|Gnnevaluator: Evaluating gnn performance on unseen graphs without labels|NeurIPS|
+|2023|Certpri: certifiable prioritization for deep neural networks via movement cost in feature space|ASE|
+|2023|Evaluating surprise adequacy for deep learning system testing|TOSEM|
+|2023|Aries: Efficient testing of deep neural networks via labeling-free accuracy estimation|ICSE|
+|2023|Graphprior: Mutation-based test input prioritization for graph neural networks|TOSEM|
+|2023|Actgraph: prioritization of test cases based on deep neural network activation graph|ASE|
+|2022|Adaptive test selection for deep neural networks|ICSE|
+|2022|Adaptive test selection for deep neural networks|ICSE|
+|2022|Hybridrepair: towards annotation-efficient repair for deep learning models|ISSTA|
+|2022|In Defense of Core-set: A Density-aware Core-set Selection for Active Learning|KDD|
+|2022|An empirical study on data distribution-aware test selection for deep learning enhancement|TOSEM|
+|2022|To actively initialize active learning|PR|
+|2022|A white-box testing for deep neural networks based on neuron coverage|TNNLS|
+|2022|Npc: Neuron path coverage via characterizing decision logic of deep neural networks|TOSEM|
+|2022|Active learning for domain adaptation: An energy-based approach|AAAI|
+|2022|Simple techniques work surprisingly well for neural network test prioritization and active learning (replicability study)|ISSTA|
+|2022|Boosting active learning via improving test performance|AAAI|
 |-------|------|-------|
 |-------|------|-------|
 |-------|------|-------|
