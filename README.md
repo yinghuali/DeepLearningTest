@@ -208,124 +208,52 @@
 ## Correctness-Oriented Testing Techniques
 | Year | Title | Venue |
 |:---------:|-------|:---------:|
+|2024|D3: Differential Testing of Distributed Deep Learning with Model Generation|TSE|
+|2023|Simulator-based explanation and debugging of hazard-triggering events in dnn-based safety-critical systems|TOSEM|
+|2022|Metamorphic testing of deep learning compilers|POMACS|
+|2022|Muffin: Testing deep learning libraries via neural architecture fuzzing|ICSE|
+|2021|Mlcheck– property-driven testing of machine learning classifiers|ICMLA|
+|2020|Metamorphic object insertion for testing object detection systems|ASE|
+|2020|Deep learning library testing via effective model generation|FSE|
+|2020|Oracle issues in machine learning and where to find them|ICSE|
+|2020|Deepgini: prioritizing massive tests to enhance the robustness of deep neural networks|ISSTA|
+|2019|Cradle: cross-backend validation to detect and localize bugs in deep learning libraries|ICSE|
+|2018|Formal specification for deep neural networks|ATVA|
+|2018|Identifying implementation bugs in machine learning based image classifiers using metamorphic testing|ISSTA|
+
 ## Privacy-Oriented Testing Techniques
 | Year | Title | Venue |
 |:---------:|-------|:---------:|
+|2025|From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning|CVPR|
+|2024|Can graph neural networks expose training data properties? an efficient risk assessment approach|NeurIPS|
+|2024|You only query once: an efficient label-only membership inference attack|ICLR|
+|2024|{ModelGuard}:{Information-Theoretic} defense against model extraction attacks|USENIX Security|
+|2020|The secret revealer: Generative model-inversion attacks against deep neural networks|CVPR|
+|2020|Gan-leaks: A taxonomy of membership inference attacks against generative models|CCS|
+|2018|Property inference attacks on fully connected neural networks using permutation invariant representations|CCS|
+|2017|Membership inference attacks against machine learning model|SP|
+|2016|Stealing machine learning models via prediction {APIs}|USENIX Security|
+|2015|Model inversion attacks that exploit confidence information and basic countermeasures|CCS|
+
 ## Testing Techinques for Large Language Models
 | Year | Title | Venue |
 |:---------:|-------|:---------:|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
+|2025|KG-FPQ: Evaluating factuality hallucination in LLMs with knowledge graph-based false premise questions|COLING|
+|2025|Safetyquizzer: Timely and dynamic evaluation on the safety of llms|NAACL|
+|2025|Benchmarking large language models for biomedical natural language processing applications and recommendations|Nature communications|
+|2024|Do-not-answer: Evaluating safeguards in LLMs|EACL|
+|2024|Plug-and-play performance estimation for llm services without relying on labeled data|ICSOC|
+|2024|Examining the robustness of llm evaluation to the distributional assumptions of benchmarks|ACL|
+|2024|tinybenchmarks: evaluating llms with fewer examples|ICML|
+|2024|The dawn after the dark: An empirical study on factuality hallucination in large language models|ACL|
+|2024|ART: Automatic red-teaming for text-to-image models to protect benign users|NeurIPS|
+|2024|Mathador-LM: A dynamic benchmark for mathematical reasoning on large language models|EMNLP|
+|2024|Pruning multilingual large language models for multilingual inference|EMNLP|
+|2024|Evaluating the elementary multilingual capabilities of large language models with MultiQ|ACL|
+|2024|Bias and fairness in large language models: A survey|Computational Linguistics|
+|2024|LawBench: Bench- marking legal knowledge of large language models|EMNLP|
+|2024|Fairness in large language models in three hours|CIKM|
+|2024|Fairness in Large Language Models: A Taxonomic Survey|SIGKDD Explor. Newsl.|
 |-------|------|-------|
 |-------|------|-------|
 |-------|------|-------|
