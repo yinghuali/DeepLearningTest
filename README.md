@@ -62,23 +62,23 @@
 |2025|Aed-pada: Improving generalizability of adversarial example detec-tion via principal adversarial domain adaptation|TOMM|
 |2025|Two is Better than One: Efficient Ensemble Defense for Robust and Compact Models|CVPR|
 |2025|MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework|CVPR|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
+|2024|Attack as detection: Using adversarial attack methods to detect abnormal examples|TOSEM|
+|2024|On the duality between sharpness-aware minimization and adversarial training|ICML|
+|2024|Improving robustness to corruptions with multiplicative weight perturbations|NeurIPS|
+|2024|TabularBench: benchmarking adversarial robustness for tabular deep learning in real-world use-cases|NeurIPS|
+|2024|Great score: Global robustness evaluation of adversarial perturbation using generative models|NeurIPS|
+|2024|Interpretability-guided test-time adversarial defense|ECCV|
+|2024|Vulnerabilities in AI Code Generators: Exploring Targeted Data Poisoning Attacks|ICPC|
+|2024|Superdeepfool: a new fast and accurate minimal adversarial attack|NeurIPS|
+|2024|BrainWash: A Poisoning Attack to Forget in Continual Learning|CVPR|
+|2023|Deeprover: A query-efficient blackbox attack for deep neural networks|FSE|
+|2023|A comprehensive evaluation framework for deep model robustness|PR|
+|2023|Fedslice: Protecting federated learning models from malicious participants with model slicing|ICSE|
+|2023|Model poisoning attack on neural network without reference data|TC|
+|2023|Adversarial parameter attack on deep neural networks|ICML|
+|2023|A Tale of Two Approximations: Tightening Over-Approximation for DNN Robustness Verification via Under-Approximation|ISSTA|
+|2023|Robust test selection for deep neural networks|TSE|
+|2023|Understanding and improving ensemble adversarial defense|NeurIPS|
 |-------|------|-------|
 |-------|------|-------|
 |-------|------|-------|
