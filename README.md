@@ -14,7 +14,6 @@
 - [Testing Techinques for Large Language Models](#testing-techinques-for-large-language-models)
 
 ## Efficiency-Oriented Testing Techniques
-
 | Year | Title | Venue |
 |:---------:|-------|:---------:|
 |2025|Prioritizing speech test cases|TOSEM|
@@ -134,70 +133,87 @@
 |2015|Explaining and harnessing adversarial examples|ICLR|
 
 ## Fairness-Oriented Testing Techinques
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
+| Year | Title | Venue |
+|:---------:|-------|:---------:|
+|2025|Fairquant: Certifying and Quantifying Fairness of Deep Neural Networks|ICSE|
+|2025|Towards fair medical ai: Adversarial debiasing of 3d ct foundation embeddings|arXiv|
+|2024|Counterfactual fairness by combining factual and counterfactual predictions|NeurIPS|
+|2024|Improving adversarial robust fairness via anti-bias soft label distillation|NeurIPS|
+|2024|Improving the fairness of the min-max game in gans training|WACV|
+|2024|Why don’t prompt-based fairness metrics correlate?|ACL|
+|2024|Mind the graph when balancing data for fairness or robustness|NeurIPS|
+|2024|Towards counterfactual fairness-aware domain generalization in changing environments|IJCAI|
+|2024|Fairtune: Optimizing parameter efficient fine tuning for fairness in medical image analysis|ICLR|
+|2024|What hides behind unfairness? exploring dynamics fairness in reinforcement learning|IJCAI|
+|2023|Testsgd: Interpretable testing of neural networks against subtle group discrimination|TOSEM|
+|2023|Latent imitator: Generating natural individual discriminatory instances for black-box fairness testing|ISSTA|
+|2023|Biasasker: Measuring the bias in conversational ai system|FSE|
+|2023|Information-theoretic testing and debugging of fairness defects in deep neural networks|ICSE|
+|2023|Loss balancing for fair supervised learning|ICML|
+|2023|Fairify: Fairness verification of neural networks|ICSE|
+|2023|Lucid–gan: Conditional generative models to locate unfairness|xAI|
+|2022|Neuronfair: Interpretable white-box fairness testing through biased neuron identification|ICSE|
+|2022|Adaptive fairness improvement based on causality analysis|FSE|
+|2022|Ruler: discrimi- native and iterative adversarial training for deep neural network fairness|FSE|
+|2022|Astraea: Grammar-based fairness testing|TSE|
+|2022|"I'm sorry to hear that": Finding New Biases in Language Models with a Holistic Descriptor Dataset|EMNLP|
+|2022|Generating and controlling diversity in image search|WACV|
+|2022|Flexible text generation for counterfactual fairness probing|arXiv|
+|2022|Evaluatingand mitigating bias in image classifiers: A causal perspective using counterfactuals|WACV|
+|2022|Adaptive fairness improvement based on causality analysis|FSE|
+|2022|Maat: a novel ensemble approach to addressing fairness and performance bugs for machine learning software|FSE|
+|2022|Fair and accurate age prediction using distribution aware data curation and augmentation|WACV|
+|2021|Self-diagnosis and self- debiasing: A proposal for reducing corpus-based bias in nlp|TACL|
+|2021|Fair attribute classification through latent space de-biasing|CVPR|
+|2021|Counterfactual fairness with disentangled causal effect variational autoencoder|AAAI|
+|2021|Fair feature distillation for visual recognition|CVPR|
+|2021|Biasfinder: Metamorphic test generation to un- cover bias for sentiment analysis systems|TSE|
+|2020|White-box fairness testing through adversarial sampling|ICSE|
+|2020|Exploring racial bias within face recognition via per-subject adversarially-enabled data augmentation|CVPR|
+|2020|Investigating gender bias in language models using causal mediation analysis|NeurIPS|
+|2020|Metamorphic testing and certified mitigation of fairness violations in nlp models|IJCAI|
+|2020|Deep fair clustering for visual learning|CVPR|
+|2020|Fairway: a way to build fair ml software|FSE|
+|2019|Repair: Removing representation bias by dataset resampling|CVPR|
+|2018|Women also snowboard: Overcoming bias in captioning models|ECCV|
+|2018|Mitigating unwanted biases with adversarial learning|AAAI|
+|2018|Automated directed fairness testing|ASE|
+|2018|Themis: Automatically testing software for discrimination|FSE|
+|2017|Counterfactual fairness|NeurIPS|
+|2017|Fairness testing: testing software for discrimination|FSE|
+|2016|Equality of opportunity in supervised learning|NeurIPS|
+
 ## Interpretability-Oriented Testing Techniques
+| Year | Title | Venue |
+|:---------:|-------|:---------:|
+|2025|Interpretable image classification via non-parametric part prototype learning|CVPR|
+|2025|Tracefl: Interpretability-driven debugging in federated learning via neuron provenance|ICSE|
+|2024|On the evaluation consistency of attribution-based explanations|ECCV|
+|2024|Decix: Explain deep learning based code generation applications|FSE|
+|2024|B-cosification: Transforming deep neural networks to be inherently interpretable|arXiv|
+|2024|Inferring data preconditions from deep learning models for trustworthy prediction in deployment|ICSE|
+|2023|A sea of words: An in-depth analysis of anchors for text data|AISTATS|
+|2022|Counterfactual explanations for models of code|ICSE|
+|2021|{NBDT}: Neural-backed decision tree|ICLR|
+|2021|Explaining mispredictions of machine learning models using rule induction|FSE|
+|2021|Neural additive models: Interpretable machine learning with neural nets|NeurIPS|
+|2020|Regional tree regularization for interpretability in deep neural networks|AAAI|
+|2019|What is one grain of sand in the desert? analyzing individual neurons in deep nlp models|AAAI|
+|2019|This looks like that: deep learning for interpretable image recognition|NeurIPS|
+|2018|Anchors: High-precision model-agnostic explanations|AAAI|
+|2017|Training differentiable models by constraining their explanations|IJCAI|
+|2017|Understanding black-box predictions via influence functions|ICML|
+|2016|Explaining the predictions of any classifier|KDD|
+
 ## Correctness-Oriented Testing Techniques
+| Year | Title | Venue |
+|:---------:|-------|:---------:|
 ## Privacy-Oriented Testing Techniques
+| Year | Title | Venue |
+|:---------:|-------|:---------:|
 ## Testing Techinques for Large Language Models
-|-------|------|-------|
+| Year | Title | Venue |
+|:---------:|-------|:---------:|
 |-------|------|-------|
 |-------|------|-------|
 |-------|------|-------|
