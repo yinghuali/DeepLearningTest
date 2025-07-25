@@ -6,12 +6,12 @@
 
 ## Table of Contents
 - [Efficiency-Oriented Testing Techniques](#efficiency-oriented-testing-techniques)
-- [Testing Techniques for Robustness and Security](#Testing Techniques for Robustness and Security)
-- [Fairness-Oriented Testing Techinques](#Fairness-Oriented Testing Techinques)
-- [Interpretability-Oriented Testing Techniques](#Interpretability-Oriented Testing Techniques)
-- [Correctness-Oriented Testing Techniques](#Correctness-Oriented Testing Techniques)
-- [Privacy-Oriented Testing Techniques](#Privacy-Oriented Testing Techniques)
-- [Testing Techinques for Large Language Models](#Testing Techinques for Large Language Models)
+- [Testing Techniques for Robustness and Security](#testing-techniques-for-robustness-and-security)
+- [Fairness-Oriented Testing Techinques](#fairness-oriented-testing-techinques)
+- [Interpretability-Oriented Testing Techniques](#interpretability-oriented-testing-techniques)
+- [Correctness-Oriented Testing Techniques](#correctness-oriented-testing-techniques)
+- [Privacy-Oriented Testing Techniques](#privacy-oriented-testing-techniques)
+- [Testing Techinques for Large Language Models](#testing-techinques-for-large-language-models)
 
 ## Efficiency-Oriented Testing Techniques
 
