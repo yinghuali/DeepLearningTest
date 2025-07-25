@@ -1,5 +1,7 @@
 # Testing Techniques for Deep Learning Systems
 
+<iframe src="distribution/core_rank.pdf" width="400" height="300"></iframe>
+<iframe src="distribution/ccf.pdf" width="400" height="300"></iframe>
 
 ## Efficiency-Oriented Testing Techniques
 
