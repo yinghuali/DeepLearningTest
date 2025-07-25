@@ -79,29 +79,29 @@
 |2023|A Tale of Two Approximations: Tightening Over-Approximation for DNN Robustness Verification via Under-Approximation|ISSTA|
 |2023|Robust test selection for deep neural networks|TSE|
 |2023|Understanding and improving ensemble adversarial defense|NeurIPS|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
+|2022|Toward improving the robustness of deep learning models via model transformation|ASE|
+|2022|Adversarial robustness of deep code comment generation|TOSEM|
+|2022|Eliminating Backdoor Triggers for Deep Neural Networks Using Attention Relation Graph Distillation|IJCAI|
+|2022|You see what i want you to see: poisoning vulnerabilities in neural code search|FSE|
+|2022|ε-weakened robustness of deep neural networks|ISSTA|
+|2022|On the limitations of stochastic pre-processing defenses|NeurIPS|
+|2022|Evaluating the adversarial robustness of adaptive test-time defenses|ICML|
+|2021|Detecting adversarial samples with graph-guided testing|ASE|
+|2021|Understanding local robustness of deep neural networks under natural variations|FASE|
+|2021|Robot: Robustness-oriented testing for deep learning systems|ICSE|
+|2021|On interaction between aug- mentations and corruptions in natural corruption robustness|NeurIPS|
+|2021|Deeppayload: Black-box backdoor attack on deep learning models through neural payload injection|ICSE|
+|2021|Robustness of on-device models: Adversarial attack to deep learning models on android apps|ICSE|
+|2021|The many faces of robustness: A critical analysis of out-of-distribution generalization|ICCV|
+|2020|Towards characterizing adversarial defects of deep learning software from the lens of uncertainty|ICSE|
+|2020|Testing dnn image classifiers for confusion & bias errors|ICSE|
+|2020|Weight poisoning attacks on pretrained models|ACL|
+|2020|Augmix: A simple data processing method to improve robustness and uncertainty|ICLR|
+|2020|Fuzz testing based data augmentation to improve robustness of deep neural networks|ICSE|
+|2020|Local model poisoning attacks to {Byzantine-Robust} federated learning|USENIX Security|
+|2020|Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks|ICML|
+|2020|Robust-bench: a standardized adversarial robustness benchmark|arXiv|
+|2020|Square attack: a query-efficient black-box adversarial attack via random search|ECCV|
 |-------|------|-------|
 |-------|------|-------|
 |-------|------|-------|
