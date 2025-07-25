@@ -1,7 +1,8 @@
 # Testing Techniques for Deep Learning Systems
 
-<iframe src="distribution/core_rank.pdf" width="400" height="300"></iframe>
-<iframe src="distribution/ccf.pdf" width="400" height="300"></iframe>
+## Core Rank and CCF Distribution
+| ![](distribution/core_rank.png) | ![](distribution/ccf.png) |
+|----------------------------------|-----------------------------|
 
 ## Efficiency-Oriented Testing Techniques
 
