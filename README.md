@@ -4,6 +4,15 @@
 | ![](distribution/core_rank.png) | ![](distribution/ccf.png) |
 |----------------------------------|-----------------------------|
 
+## Table of Contents
+- [Efficiency-Oriented Testing Techniques](#efficiency-oriented-testing-techniques)
+- [Testing Techniques for Robustness and Security](#Testing Techniques for Robustness and Security)
+- [Fairness-Oriented Testing Techinques](#Fairness-Oriented Testing Techinques)
+- [Interpretability-Oriented Testing Techniques](#Interpretability-Oriented Testing Techniques)
+- [Correctness-Oriented Testing Techniques](#Correctness-Oriented Testing Techniques)
+- [Privacy-Oriented Testing Techniques](#Privacy-Oriented Testing Techniques)
+- [Testing Techinques for Large Language Models](#Testing Techinques for Large Language Models)
+
 ## Efficiency-Oriented Testing Techniques
 
 | Year | Title | Venue |
@@ -57,7 +66,7 @@
 |2017|Deepxplore: Automated whitebox testing of deep learning systems|SOSP|
 |2017|Deep bayesian active learning with image data|ICML|
 
-## Robustness
+## Testing Techniques for Robustness and Security
 | Year | Title | Venue |
 |:---------:|-------|:---------:|
 |2025|Iterative generation of adversarial example for deep code models|ICSE|
@@ -105,6 +114,10 @@
 |2020|Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks|ICML|
 |2020|Robust-bench: a standardized adversarial robustness benchmark|arXiv|
 |2020|Square attack: a query-efficient black-box adversarial attack via random search|ECCV|
+|2019|Theoretically principled trade-off between robustness and accuracy|ICML|
+|2019|Adversarial sample detection for deep neural network through model mutation testing|ICSE|
+|2019|Benchmarking neural network robustness to common corruptions and perturbations|ICLR|
+|2019|On evaluating adversarial robustness|arXiv|
 |-------|------|-------|
 |-------|------|-------|
 |-------|------|-------|
@@ -178,10 +191,11 @@
 |-------|------|-------|
 |-------|------|-------|
 |-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
-|-------|------|-------|
+## Fairness-Oriented Testing Techinques
+## Interpretability-Oriented Testing Techniques
+## Correctness-Oriented Testing Techniques
+## Privacy-Oriented Testing Techniques
+## Testing Techinques for Large Language Models
 |-------|------|-------|
 |-------|------|-------|
 |-------|------|-------|
